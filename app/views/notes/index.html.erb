@@ -1,1 +1,13 @@
+hello world
 <h1>Notes</h1>
+
+<a href="/notes/new">Add note</a>
+
+<ul>
+  <% @notes.each do |note| %>
+    <li>
+      <span class="title"><%= note.title %></span>
+      <span class="from"><%= note.from %></span>
+    </li>
+  <% end %>
+</ul>
