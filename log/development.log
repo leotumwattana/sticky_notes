@@ -1,0 +1,18 @@
+
+
+Started GET "/" for 127.0.0.1 at 2014-07-09 15:42:09 +0800
+Processing by NotesController#index as HTML
+  Rendered notes/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 43ms (Views: 42.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-07-09 15:42:09 +0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-07-09 15:42:09 +0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-07-09 15:42:09 +0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-07-09 15:42:09 +0800
